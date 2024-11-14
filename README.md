@@ -1,3 +1,5 @@
+<img src="banner.webp" alt="GitHub Banner" width="100%" />
+
 <h2 align="left">Welcome 👋! My name is NIkshey and I'm a Developer, from Earth</h2>
 
 ###
