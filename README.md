@@ -59,7 +59,7 @@
 
 ##
 
-# 👀Profile viewa
+# 👀Profile views
 ###
 
 <div align="center">
