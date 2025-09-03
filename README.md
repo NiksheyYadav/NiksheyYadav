@@ -67,9 +67,70 @@
 [![Profile Views](https://u8views.com/api/v1/github/profiles/143432044/views/day-week-month-total-count.svg?background=000000&color=00FF00&border=00FF00)](https://u8views.com/github/NiksheyYadav)  
 ![Views Trend](https://u8views.com/api/v1/github/profiles/143432044/views/sparkline.svg?background=000000&line=00FF00&points=00FF00)
 
-</div>-->
+</div>
 
 <div align="center" style="background:#000; padding:15px; border:3px solid #00FF00; border-radius:8px; display:inline-block; box-shadow:0 0 15px #00FF00AA;">
+
+<!-- Counter
+<a href="https://u8views.com/github/NiksheyYadav">
+  <img src="https://u8views.com/api/v1/github/profiles/143432044/views/day-week-month-total-count.svg?background=000000&color=00FF00&border=00FF00" alt="Profile Views" />
+</a>-->
+
+<!-- Trend Graph
+<img src="https://u8views.com/api/v1/github/profiles/143432044/views/sparkline.svg?background=000000&line=00FF00&points=00FF00&lineWidth=3&pointRadius=2&shadow=00FF00AA" alt="Views Trend" />
+
+</div> -->
+
+## 👀 Profile views
+###
+
+<div align="center" style="
+  background: #000 url('https://www.transparenttextures.com/patterns/brushed-alum.png');
+  padding: 20px;
+  border: 3px solid #00FF00;
+  border-radius: 10px;
+  display: inline-block;
+  box-shadow: 0 0 20px #00FF00AA;
+  position: relative;
+">
+
+<!-- Corner screws -->
+<svg style="position:absolute; top:5px; left:5px;" width="16" height="16" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="45" fill="#555" stroke="#222" stroke-width="5"/>
+  <line x1="30" y1="30" x2="70" y2="70" stroke="#222" stroke-width="5"/>
+  <line x1="70" y1="30" x2="30" y2="70" stroke="#222" stroke-width="5"/>
+</svg>
+<svg style="position:absolute; top:5px; right:5px;" width="16" height="16" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="45" fill="#555" stroke="#222" stroke-width="5"/>
+  <line x1="30" y1="30" x2="70" y2="70" stroke="#222" stroke-width="5"/>
+  <line x1="70" y1="30" x2="30" y2="70" stroke="#222" stroke-width="5"/>
+</svg>
+<svg style="position:absolute; bottom:5px; left:5px;" width="16" height="16" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="45" fill="#555" stroke="#222" stroke-width="5"/>
+  <line x1="30" y1="30" x2="70" y2="70" stroke="#222" stroke-width="5"/>
+  <line x1="70" y1="30" x2="30" y2="70" stroke="#222" stroke-width="5"/>
+</svg>
+<svg style="position:absolute; bottom:5px; right:5px;" width="16" height="16" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="45" fill="#555" stroke="#222" stroke-width="5"/>
+  <line x1="30" y1="30" x2="70" y2="70" stroke="#222" stroke-width="5"/>
+  <line x1="70" y1="30" x2="30" y2="70" stroke="#222" stroke-width="5"/>
+</svg>
+
+<!-- Label strip -->
+<div style="
+  font-family: 'Courier New', monospace;
+  font-size: 14px;
+  color: #00FF00;
+  background: #111;
+  padding: 2px 8px;
+  margin-bottom: 8px;
+  display: inline-block;
+  border: 1px solid #00FF00;
+  border-radius: 4px;
+  letter-spacing: 2px;
+">
+PROFILE VIEWS
+</div>
 
 <!-- Counter -->
 <a href="https://u8views.com/github/NiksheyYadav">
@@ -80,6 +141,7 @@
 <img src="https://u8views.com/api/v1/github/profiles/143432044/views/sparkline.svg?background=000000&line=00FF00&points=00FF00&lineWidth=3&pointRadius=2&shadow=00FF00AA" alt="Views Trend" />
 
 </div>
+
 
 
 
