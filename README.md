@@ -138,7 +138,9 @@ PROFILE VIEWS
 </a>
 
 <!-- Trend Graph -->
+<!-- Trend Graph -->
 <img src="https://u8views.com/api/v1/github/profiles/143432044/views/sparkline.svg?background=000000&line=00FF00&points=00FF00&lineWidth=3&pointRadius=2&shadow=00FF00AA" alt="Views Trend" />
+
 
 </div>
 
