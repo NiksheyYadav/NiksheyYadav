@@ -63,9 +63,12 @@
 ###
 
 <div align="center">
-  <img src="[![Profile Views](https://u8views.com/api/v1/github/profiles/143432044/views/day-week-month-total-count.svg?background=000000&color=00FF00&border=00FF00)](https://u8views.com/github/NiksheyYadav)
-" />
+
+[![Profile Views](https://u8views.com/api/v1/github/profiles/143432044/views/day-week-month-total-count.svg?background=000000&color=00FF00&border=00FF00)](https://u8views.com/github/NiksheyYadav)  
+![Views Trend](https://u8views.com/api/v1/github/profiles/143432044/views/sparkline.svg?background=000000&line=00FF00&points=00FF00)
+
 </div>
+
 
 ###
 
