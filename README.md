@@ -64,7 +64,9 @@
 
 <div align="center">
   <!-- <img src="https://profile-counter.glitch.me/NiksheyYadav/count.svg" /> -->
-  <img src="https://komarev.com/ghpvc/?username=NiksheyYadav&color=blue" alt="Profile views" />
+  <!--   <img src="https://komarev.com/ghpvc/?username=NiksheyYadav&color=blue" alt="Profile views" /> -->
+  <img src="https://img.shields.io/badge/Profile%20Views-000123-red?style=for-the-badge&logo=digitalocean&logoColor=white" />
+
 </div>
 
 ###
