@@ -64,10 +64,23 @@
 
 <div align="center">
   <!-- <img src="https://profile-counter.glitch.me/NiksheyYadav/count.svg" /> -->
-  <!--   <img src="https://komarev.com/ghpvc/?username=NiksheyYadav&color=blue" alt="Profile views" /> -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segment7&size=30&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=200&lines=000123" />
-
-
+  <svg xmlns="http://www.w3.org/2000/svg" width="40" height="70" viewBox="0 0 40 70">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="40" height="70" fill="#000"/>
+  <g fill="#00ff66" filter="url(#glow)">
+    <!-- top -->
+    <polygon points="5,5 35,5 30,10 10,10"/>
+    <!-- add other segments here -->
+  </g>
+</svg>
 </div>
 
 ###
