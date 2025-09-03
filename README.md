@@ -63,9 +63,8 @@
 ###
 
 <div align="center">
-  <!-- <img src="https://profile-counter.glitch.me/NiksheyYadav/count.svg" /> -->
-  ![GitHubViewsCounter](https://openlabx.com/githubviewscounter/api/gitvcmp.php?username=NiksheyYadav&theme=dark)
-
+  <img src="[![Profile Views](https://u8views.com/api/v1/github/profiles/143432044/views/day-week-month-total-count.svg?background=000000&color=00FF00&border=00FF00)](https://u8views.com/github/NiksheyYadav)
+" />
 </div>
 
 ###
