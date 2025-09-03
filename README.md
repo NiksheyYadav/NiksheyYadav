@@ -63,7 +63,8 @@
 ###
 
 <div align="center">
-<img src="https://profile-counter.glitch.me/NiksheyYadav/count.svg" />
+  <!-- <img src="https://profile-counter.glitch.me/NiksheyYadav/count.svg" /> -->
+  <img src="https://komarev.com/ghpvc/?username=NiksheyYadav&color=blue" alt="Profile views" />
 </div>
 
 ###
