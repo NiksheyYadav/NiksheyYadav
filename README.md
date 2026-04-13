@@ -6,8 +6,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NiksheyYadav&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NiksheyYadav&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://git-readme-statistics.vercel.app/api?username=NiksheyYadav&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en" height="150" alt="stats graph" />
+  <img src="https://git-readme-statistics.vercel.app/api/top-langs?username=NiksheyYadav&layout=compact&langs_count=5&theme=dracula&locale=en" height="150" alt="languages graph" />
 </div>
 
 ###
@@ -58,28 +58,6 @@
 </div>
 
 ##
-
-# 👀Profile views
-###
-
-<!-- <div align="center">
-
-[![Profile Views](https://u8views.com/api/v1/github/profiles/143432044/views/day-week-month-total-count.svg?background=000000&color=00FF00&border=00FF00)](https://u8views.com/github/NiksheyYadav)  
-![Views Trend](https://u8views.com/api/v1/github/profiles/143432044/views/sparkline.svg?background=000000&line=00FF00&points=00FF00)
-
-</div>
-
-<div align="center" style="background:#000; padding:15px; border:3px solid #00FF00; border-radius:8px; display:inline-block; box-shadow:0 0 15px #00FF00AA;">
-
-<!-- Counter
-<a href="https://u8views.com/github/NiksheyYadav">
-  <img src="https://u8views.com/api/v1/github/profiles/143432044/views/day-week-month-total-count.svg?background=000000&color=00FF00&border=00FF00" alt="Profile Views" />
-</a>-->
-
-<!-- Trend Graph
-<img src="https://u8views.com/api/v1/github/profiles/143432044/views/sparkline.svg?background=000000&line=00FF00&points=00FF00&lineWidth=3&pointRadius=2&shadow=00FF00AA" alt="Views Trend" />
-
-</div> -->
 
 ## 👀 Profile views
 ###
@@ -138,8 +116,7 @@ PROFILE VIEWS
 </a>
 
 <!-- Trend Graph -->
-<!-- Trend Graph -->
-<img src="https://u8views.com/api/v1/github/profiles/143432044/views/sparkline.svg?background=000000&line=00FF00&points=00FF00&lineWidth=3&pointRadius=2&shadow=00FF00AA" alt="Views Trend" />
+<img src="https://u8views.com/api/v1/github/profiles/143432044/views/sparkline.svg?background=000000&line=00FF00&points=00FF00" alt="Views Trend" />
 
 
 </div>
